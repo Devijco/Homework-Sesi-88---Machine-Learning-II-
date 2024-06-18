@@ -1,5 +1,6 @@
-# Homework-Sesi-88 - Machine-Learning-II-
+# Homework-Sesi-88 - Machine-Learning II
 
+* Donwload data di <a herf='https://www.econometrics.com/intro/SALES.txt'>
 * Melakukan prediksi menggunakan simple regression
 * Melakukan prediksi berapa cost Advertising yang harus dikeluarkan jika:
 50 sales
