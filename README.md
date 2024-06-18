@@ -1,4 +1,4 @@
-# Homework-Sesi-88 - Machine-Learning II
+# Homework Sesi 88 - Machine-Learning II
 
 * Donwload data di (https://www.econometrics.com/intro/SALES.txt)
 * Melakukan prediksi menggunakan simple regression
